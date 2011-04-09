@@ -1,0 +1,7 @@
+.*
+!.gitignore
+*.o
+ui_*.h
+/ballslicer
+/Makefile
+moc_*.cpp

@@ -6,15 +6,13 @@
 
 QT       += core gui
 
-TARGET = ballslicer
+TARGET = bubble-sort-vis
 TEMPLATE = app
 
 
 SOURCES += main.cpp\
-        mainwindow.cpp \
-    ball.cpp
+        mainwindow.cpp
 
-HEADERS  += mainwindow.h \
-    ball.h
+HEADERS  += mainwindow.h
 
 FORMS    += mainwindow.ui
